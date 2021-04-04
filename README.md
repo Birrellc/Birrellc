@@ -6,7 +6,7 @@
 - 👀 I’m currently working on the Django section of the Code Institute Diploma in Full Stack Software Development.
 - 🎓 I'm currently learning Django and React.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chrisbirrell17/)
-- 💞️ I’m looking to collaborate on anything
+- 🌎 I’m looking to collaborate on anything
 
 ---
 
