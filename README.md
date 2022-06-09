@@ -2,6 +2,8 @@
 
 ---
 
+### Current Project: React Crypto Api Website with Typescript - [Code](https://github.com/Birrellc/Project__Crypto-tracker)
+
 - 👉 I'm a graduate from the Code Institute.
 - 🎓 I'm currently learning React.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chrisbirrell17/)
