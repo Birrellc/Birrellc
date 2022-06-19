@@ -2,7 +2,7 @@
 
 ---
 
-### Current Project: React Crypto Api Website with Typescript - [Code](https://github.com/Birrellc/Project__Crypto-tracker)
+### Current Project: Project to learn Angular (clips project) - [Code](https://github.com/Birrellc/Practice__clips-project-AngularJS)
 
 - 👉 I'm a graduate from the Code Institute.
 - 🎓 I'm currently learning React.
