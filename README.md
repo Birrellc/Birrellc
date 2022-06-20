@@ -4,7 +4,7 @@
 
 ### Current Project: Project to learn Angular (clips project) - [Code](https://github.com/Birrellc/Practice__clips-project-AngularJS)
 
-- 👉 I'm a graduate from the Code Institute.
+- 👉 I'm a graduate from the Code Institute. (Merit Level 5 Diploma)
 - 🎓 I'm currently learning React.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chrisbirrell17/)
 - 🌎 I’m looking to collaborate on anything
