@@ -2,7 +2,7 @@
 
 ---
 
-### Current Project: Project to learn Angular (clips project) - [Code](https://github.com/Birrellc/Practice__clips-project-AngularJS)
+### Current Project: N/A - Learning Pen Testing Basics
 
 - 👉 I'm a graduate from the Code Institute. (Merit Level 5 Diploma)
 - 🎓 I'm currently learning React.
