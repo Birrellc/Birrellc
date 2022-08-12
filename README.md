@@ -3,7 +3,7 @@
 ---
 
 ### Current Project: Ecom React, Firebase Website with stripe payments - [Here](https://github.com/Birrellc/Project__Ecom-app-REACT)
-### Current Learning Goals: Continued React & Penetration Testing
+### Current Learning Goals: Continued React & CodeAcademy Full Stack Course
 
 - 👉 I'm a graduate from the Code Institute. (Merit Level 5 Diploma)
 - 🎓 I'm currently learning React.
