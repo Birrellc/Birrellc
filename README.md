@@ -17,6 +17,8 @@
 - Code Institute - Full Stack Development Diploma (Level 5) - [Cert](https://www.credential.net/080f2df4-d5ca-4be4-9605-f58d94b28d5f#gs.b3mjfi)
 - Udemy - Modern React With Redux - [Cert](https://www.udemy.com/certificate/UC-43a6db03-2482-46ae-be41-00c16e3e6cef/)
 - FreeCodeCamp - Javascript Algorithms and Data Structures - [Cert](https://www.freecodecamp.org/certification/birrell/javascript-algorithms-and-data-structures)
+- CodeAcademy - Learn SQL
+- CodeAcademy - JS Errors & Debugging
 
 ## Languages and Frameworks Used:
 
