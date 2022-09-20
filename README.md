@@ -35,7 +35,7 @@
 
 ---
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Birrellc&count_private=true&theme=tokyonight&showicons=true)]()
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=birrellc&theme=radical&show_icons=true)
 
 ---
 
